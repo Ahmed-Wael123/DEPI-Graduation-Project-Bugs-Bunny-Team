@@ -1,12 +1,15 @@
-# DEPI-Graduation-Project-Bugs-Bunny-Team
+# DEPI-Graduation-Project-Software-Testing-Track-Bugs-Bunny-Team
 
 Graduation project under the Digital Egypt Pioneers Initiative (DEPI).
+
+## Track
+**Software Testing**
 
 ## Team Name
 **Bugs Bunny**
 
 ## Team Members   
-- Hana Shaaban Mohamed (Team Leader)
+- Hana Shaaban Mohamed **(Team Leader)**
 - Hisham Mohamed Farid 
 - Ahmed Wael AboZikry 
 - Hager Ali
