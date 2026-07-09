@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationExercise_Combined_Suite" verbose="1">
+
+    <parameter name="browser" value="edge"/>
+    <parameter name="environment" value="local"/>
+
+    <test name="All_Features_and_Regression_Tests">
+        <classes>
+            <class name="Tests.HomePageTest"/>
+            <class name="Tests.RegisterTest"/>
+            <class name="Tests.LoginTest"/>
+            <class name="Tests.ProductsTest"/>
+
+            <class name="Tests.AddReviewOnProductTest"/>
+            <class name="Tests.RemoveProductsFromCartTest"/>
+            <class name="Tests.SearchProductsVerifyCartAfterLoginTest"/>
+
+            <class name="Tests.SubscriptionTest"/>
+            <class name="Tests.TestCasesTest"/>
+
+            <class name="Tests.ViewAndCartBrandProductsTest"/>
+            <class name="Tests.ViewCategoryProductsTest"/>
+
+            <class name="Tests.TC12_AddProductsInCart"/>
+            <class name="Tests.TC13_VerifyProductQuantityInCart"/>
+            <class name="Tests.TC14_PlaceOrderRegisterWhileCheckout"/>
+            <class name="Tests.TC15_PlaceOrderRegisterBeforeCheckout"/>
+            <class name="Tests.TC16_PlaceOrderLoginBeforeCheckout"/>
+
+            <class name="Tests.TC22_AddToCartFromRecommendedItems"/>
+            <class name="Tests.TC23_VerifyAddressDetailsInCheckoutPage"/>
+            <class name="Tests.TC24_DownloadInvoiceAfterPurchaseOrder"/>
+            <class name="Tests.TC25_ScrollUpUsingArrowButton"/>
+            <class name="Tests.TC26_ScrollUpWithoutArrowButton"/>
+        </classes>
+    </test>
+</suite>
