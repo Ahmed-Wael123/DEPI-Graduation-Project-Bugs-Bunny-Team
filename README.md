@@ -1,33 +1,40 @@
-# DEPI-Graduation-Project-Software-Testing-Track-Bugs-Bunny-Team
+# DEPI Graduation Project - Software Testing Track
+### Team: Bugs Bunny 🐰
 
-Graduation project under the Digital Egypt Pioneers Initiative (DEPI).
+This repository contains the complete Software Testing Graduation Project for the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-## Track
-**Software Testing**
+---
 
-## Team Name
-**Bugs Bunny**
+## 📌 Project Overview
+A comprehensive testing project covering manual and automated testing, API testing, performance testing, and continuous integration pipelines to ensure high-quality software delivery.
 
-## Team Members   
-- Hana Shaaban Mohamed **(Team Leader)**
-- Hisham Mohamed Farid 
-- Ahmed Wael AboZikry 
-- Hager Ali
-- Asmaa Ibrahim Badr  
- 
+---
 
-## Supervisor
-- To be assigned
+## 👥 Team Members
+- **Hana Shaaban Mohamed** *(Team Leader)*
+- **Hisham Mohamed Farid**
+- **Ahmed Wael AboZikry**
+- **Hager Ali**
+- **Asmaa Ibrahim Badr**
 
-## Status
-Currently in planning and preparation phase.
+---
 
-## Expected Duration
-Approximately 6 months.
+## 🛠️ Tools & Technologies Used
+- **Java** / **TestNG**
+- **Maven** (pom.xml)
+- **Jenkins** (CI/CD Integration)
+- **Selenium WebDriver**
+- **Postman** (API Testing)
 
-## Technologies
-To be determined.
+---
 
-## Notes
-This repository will be updated gradually as the project progresses.
+## 📂 Repository Structure
+- `src/`: Main source code and automation test scripts.
+- `screenshots/`: Test execution reports, execution screenshots, and artifacts.
+- `pom.xml`: Maven dependencies and build configuration.
+- `testng.xml`: Test suite execution setup.
 
+---
+
+## 🏁 Project Status
+**Completed** ✅
