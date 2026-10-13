@@ -12,7 +12,7 @@ A comprehensive testing project covering manual and automated testing, API testi
 
 ## 👥 Team Members
 - **Hana Shaaban Mohamed** *(Team Leader)*
-- **Hisham Mohamed Farid**
+- **Hesham Mohamed Farid**
 - **Ahmed Wael AboZikry**
 - **Hager Ali**
 - **Asmaa Ibrahim Badr**
